@@ -1,6 +1,6 @@
 # Sobre o sistema
 
-Este é um sistema que busca as faturas de um cliente na base de dados. É possível buscar as faturas de duas formas:
+Este é um sistema que busca as faturas de um cliente em uma base de dados. É possível buscar as faturas de duas formas:
 
 - Todas as faturas de um cliente
 - Uma fatura do cliente de acordo com uma data especifica
